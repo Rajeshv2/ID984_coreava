@@ -21,6 +21,7 @@ public class Arrays {
 	      {  
 	         arrNumbers[a] = arrTemporary[a];  
 	      }  
+	    
 	      return b;  
 	   }
 	   public static void main(String[] args) 
@@ -33,6 +34,7 @@ public class Arrays {
 	      {
 	         System.out.print(arrInput[a] + "");
 	      }
+	      System.out.println("Welcome to java tPoint");
 	   }
 
 }
