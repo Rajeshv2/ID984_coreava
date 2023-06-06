@@ -34,7 +34,8 @@ public class Arrays {
 	      {
 	         System.out.print(arrInput[a] + "");
 	      }
-	      System.out.println("Welcome to java tPoint");
+	      System.out.println("Welcome");
+	      System.out.println("welcome to Rajesh babu ")
 	   }
 
 }
