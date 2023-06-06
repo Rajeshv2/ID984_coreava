@@ -35,9 +35,10 @@ public class Arrays {
 	         System.out.print(arrInput[a] + "");
 	      }
 		
+	      int a=10;
 	      System.out.println();   
 	      System.out.println("Welcome");
-	      System.out.println("welcome to Rajesh babu ")
+	      System.out.println("welcome to Rajesh babu ");
 	   }
 
 }
